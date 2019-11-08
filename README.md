@@ -1,5 +1,6 @@
 # Accidents_data
-The data is taken from kaggle. It is about the frequency of accidents occuring in particular part of a day in the city of New Delhi.
+The data is taken from kaggle. It is about the frequency of accidents occuring in particular part of a day in different states of India.Here I have considered the data of NewDelhi(the capital of India).
+
 It is visualised in such a way that it helps the viewer to get a overall view about the number of accidents occuring in a particular
 part of a day. Here a day is divided into eight parts i.e, 0AM to 3AM as first part, 3AM to 6AM as second part, 6AM to 9AM as  third part,
 9AM to 12PM as fourth part, 12PM to 3PM as fifth part, 3PM to 6PM as sixth part, 6PM to 9PM as seventh part and 9PM to 0AM as eighth part.
