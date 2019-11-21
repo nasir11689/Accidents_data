@@ -8,5 +8,5 @@ So it will be convinient to understand the frequency of accidents in each part o
 
 From the graph it is very clear that the frequency of accidents is minimum around 6AM and the number goes on increasing slowly. At 12AM 
 the frequency is maximum.It will be very helpful to the user to be carefull while driving in these particular timings. And also it helps 
-the police men to take preventive measures like warning the public or by creating awarenes regarding accidents in specific timings to 
+the police men to take preventive measures like warning the public or by creating awareness regarding accidents in specific timings to 
 minimize the rate of accidents in these timings.
